@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: royalblue;
+}
+.innerbox{
+    width: 100px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: slateblue;
+}
+#nav-left{
+    width: 150px;
+    background-color: purple;
+
+    }
+    
